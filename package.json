@@ -1,0 +1,17 @@
+{
+  "name": "jenkins-cicd-learn",
+  "version": "1.0.0",
+  "description": "A small Express.js app to learn CI/CD with Jenkins and GitHub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["jenkins", "cicd", "express"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
